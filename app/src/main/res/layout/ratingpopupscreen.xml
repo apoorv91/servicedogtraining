@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="30dp"
+    android:background="@android:color/transparent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/emoji_popup"
+            android:gravity="center_horizontal"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:gravity="center"
+                android:text="RATE IT!"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="35dp">
+
+                <Button
+                    android:id="@+id/btnVideo1"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignBottom="@+id/rate_img1"
+                    android:layout_alignStart="@+id/rate_img1"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/emoji_01" />
+
+                <Button
+                    android:id="@+id/btnVideo2"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignBottom="@+id/rate_img2"
+                    android:layout_alignStart="@+id/rate_img2"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/emoji_02" />
+
+                <Button
+                    android:id="@+id/btnVideo3"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignBottom="@+id/rate_img3"
+                    android:layout_alignStart="@+id/rate_img3"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/emoji_03" />
+
+                <Button
+                    android:id="@+id/btnVideo4"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignBottom="@+id/rate_img4"
+                    android:layout_alignStart="@+id/rate_img4"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/emoji_04" />
+
+                <Button
+                    android:id="@+id/btnVideo5"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignBottom="@+id/rate_img5"
+                    android:layout_alignStart="@+id/rate_img5"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/emoji_05" />
+
+                <ImageView
+                    android:id="@+id/rate_img1"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="39dp"
+                    android:background="@drawable/sky_circle" />
+
+                <ImageView
+                    android:id="@+id/rate_img2"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/sky_circle" />
+
+                <ImageView
+                    android:id="@+id/rate_img3"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="32dp"
+                    android:background="@drawable/sky_circle"
+                    android:paddingTop="0dp" />
+
+                <ImageView
+                    android:id="@+id/rate_img4"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_alignBottom="@+id/rate_img1"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="26dp"
+                    android:layout_marginLeft="80dp"
+                    android:background="@drawable/sky_circle" />
+
+                <ImageView
+                    android:id="@+id/rate_img5"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_alignTop="@+id/rate_img4"
+                    android:layout_marginStart="27dp"
+                    android:layout_toEndOf="@+id/rate_img4"
+                    android:background="@drawable/sky_circle" />
+
+                <TextView
+                    android:id="@+id/textSmileyLabel1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/rate_img1"
+                    android:layout_alignStart="@+id/btnVideo1"
+                    android:layout_below="@+id/rate_img1"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:text="Unhappy"
+                    android:textColor="@color/black"
+                    android:textSize="13dp" />
+
+                <TextView
+                    android:id="@+id/textSmileyLabel2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/rate_img2"
+                    android:layout_alignStart="@+id/btnVideo2"
+                    android:layout_below="@+id/rate_img2"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:text="Not Great"
+                    android:textColor="@color/black"
+                    android:textSize="13dp" />
+
+                <TextView
+                    android:id="@+id/textSmileyLabel3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/rate_img3"
+                    android:layout_alignStart="@+id/btnVideo3"
+                    android:layout_below="@+id/rate_img3"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:text="Ok"
+                    android:textColor="@color/black"
+                    android:textSize="13dp" />
+
+                <TextView
+                    android:id="@+id/textSmileyLabel4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/rate_img4"
+                    android:layout_alignStart="@+id/btnVideo4"
+                    android:layout_below="@+id/btnVideo4"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:text="Happy"
+                    android:textColor="@color/black"
+                    android:textSize="13dp" />
+
+                <TextView
+                    android:id="@+id/textSmileyLabel5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/rate_img5"
+                    android:layout_alignStart="@+id/btnVideo5"
+                    android:layout_below="@+id/rate_img5"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:text="Great"
+                    android:textAlignment="gravity"
+                    android:textColor="@color/black"
+                    android:textSize="13dp" />
+
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/rateSubmitBtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/inactive_button"
+                android:padding="5dp"
+                android:layout_marginLeft="70dp"
+                android:layout_marginRight="70dp"
+                android:layout_marginBottom="20dp"
+                android:textColor="@color/white"
+                android:text="SUBMIT" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

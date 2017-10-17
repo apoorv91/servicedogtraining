@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

@@ -1,0 +1,445 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:2:1-249:12
+	package
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:11:5-88
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:11:22-85
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:15:22-72
+action#android.intent.action.PHONE_STATE
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:17:5-64
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:17:13-61
+application
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:20:5-248:19
+MERGED from [com.android.support:design:23.2.0] C:\Users\dell\.android\build-cache\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.devbrackets.android:exomedia:3.0.3] C:\Users\dell\.android\build-cache\4daf1f1cb08badb52c576e233f16654d968d6dc7\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\dell\.android\build-cache\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\dell\.android\build-cache\912a34f8492bb7410a7c1dd7c07a76ebf70d2f52\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\dell\.android\build-cache\d566cf814c51c30774318e37034beb6542a8a71f\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\dell\.android\build-cache\4b203ce5d759aaf09d92067d31cef213f096dc97\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\dell\.android\build-cache\0bec3bd40c65ef222cb2e4303452f3a93f942d52\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\dell\.android\build-cache\57e3ee6fa1ecbbb0bc3a77d048a68c70a237903a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\dell\.android\build-cache\826c42d2b122b4cc1440ce4f59355350a01b44ac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\dell\.android\build-cache\f00c8f9ec5fcf4dc743809b11125dd6dd0550c74\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\dell\.android\build-cache\f90dd234c7603bce311791126e5d82c2b861fd62\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:24:9-41
+	android:hardwareAccelerated
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:23:9-38
+	android:largeHeap
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:25:9-33
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.SDT.servicedog.Splash
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:30:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.SDT.servicedog.MainActivity
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:41:13-45
+	android:permission
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:42:13-61
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:40:13-59
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.MAINACTIVITY
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:43:13-47:29
+action#com.laitkor.servicedog.MAINACTIVITY
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:44:25-75
+category#android.intent.category.DEFAULT
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:46:27-73
+activity#com.SDT.servicedog.Register
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:49:9-57:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:50:13-55
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.REGISTER
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:52:13-56:29
+action#com.laitkor.servicedog.REGISTER
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:53:17-74
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:53:25-71
+activity#com.SDT.servicedog.ForgotPassword
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:58:9-66:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:59:13-61
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.FORGOTPASSWORD
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:61:13-65:29
+action#com.laitkor.servicedog.FORGOTPASSWORD
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:62:17-80
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:62:25-77
+activity#com.SDT.servicedog.TrainingProgrammes
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:67:9-75:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:69:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:68:13-65
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.TRAININGPROGRAMMES
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:70:13-74:29
+action#com.laitkor.servicedog.TRAININGPROGRAMMES
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:71:17-84
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:71:25-81
+activity#com.SDT.servicedog.TaskList
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:76:9-84:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:78:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:77:13-55
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.TASKLIST
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:79:13-83:29
+action#com.laitkor.servicedog.TASKLIST
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:80:17-74
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:80:25-71
+activity#com.SDT.servicedog.TaskReminders
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:85:9-93:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:87:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:86:13-60
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.TASKREMINDERS
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:88:13-92:29
+action#com.laitkor.servicedog.TASKREMINDERS
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:89:17-79
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:89:25-76
+activity#com.SDT.servicedog.TaskHistory
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:94:9-102:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:95:13-58
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.TASKHISTORY
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:97:13-101:29
+action#com.laitkor.servicedog.TASKHISTORY
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:98:17-77
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:98:25-74
+activity#com.SDT.servicedog.Settings
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:103:9-111:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:105:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:104:13-55
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.SETTINGS
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:106:13-110:29
+action#com.laitkor.servicedog.SETTINGS
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:107:17-74
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:107:25-71
+activity#com.SDT.servicedog.TaskListDescription
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:114:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:113:13-66
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.TASKLISTDESCRIPTION
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:115:13-119:29
+action#com.laitkor.servicedog.TASKLISTDESCRIPTION
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:116:17-85
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:116:25-82
+activity#com.SDT.servicedog.Feedback
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:121:9-129:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:122:13-55
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.FEEDBACK
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:124:13-128:29
+action#com.laitkor.servicedog.FEEDBACK
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:125:17-74
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:125:25-71
+activity#com.SDT.servicedog.AboutUS
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:130:9-143:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:132:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:131:13-54
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT+com.laitkor.servicedog.ABOUTUS
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:133:13-142:29
+action#com.laitkor.servicedog.ABOUTUS
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:134:17-73
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:134:25-70
+data
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:136:17-48
+	android:scheme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:136:23-45
+action#android.intent.action.VIEW
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:138:17-69
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:138:25-66
+category#android.intent.category.BROWSABLE
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:140:17-78
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:140:27-75
+activity#com.SDT.servicedog.Help
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:144:9-152:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:146:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:145:13-51
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.HELP
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:147:13-151:29
+action#com.laitkor.servicedog.HELP
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:148:17-70
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:148:25-67
+activity#com.SDT.servicedog.ChangePassword
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:153:9-160:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:155:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:154:13-61
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.CHANGEPASSWORD
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:156:13-159:29
+action#com.laitkor.servicedog.CHANGEPASSWORD
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:157:17-80
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:157:25-77
+activity#com.SDT.servicedog.FeedBackReport
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:161:9-169:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:163:13-45
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:162:13-61
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.FEEDBACKREPORT
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:164:13-168:29
+action#com.laitkor.servicedog.FEEDBACKREPORT
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:165:17-80
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:165:25-77
+activity#com.SDT.servicedog.AboutUsVideoPlay
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:170:9-180:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:172:13-45
+	android:permission
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:173:13-61
+	android:configChanges
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:174:13-59
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:171:13-63
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.ABOUTUSVIDEOPLAY
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:175:13-179:29
+action#com.laitkor.servicedog.ABOUTUSVIDEOPLAY
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:176:17-82
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:176:25-79
+activity#com.SDT.servicedog.TaskVideoList
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:181:9-190:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:183:13-45
+	android:permission
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:184:13-61
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:182:13-60
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.TASKVIDEOLIST
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:185:13-189:29
+action#com.laitkor.servicedog.TASKVIDEOLIST
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:186:17-79
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:186:25-76
+activity#com.SDT.servicedog.TaskImageList
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:191:9-200:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:193:13-45
+	android:permission
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:194:13-61
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:192:13-60
+intent-filter#android.intent.category.DEFAULT+com.laitkor.servicedog.TASKIMAGELIST
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:195:13-199:29
+action#com.laitkor.servicedog.TASKIMAGELIST
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:196:17-79
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:196:25-76
+activity#com.SDT.servicedog.TaskAudioList
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:201:9-69
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:201:19-66
+activity#com.SDT.servicedog.AudioPlay
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:202:9-205:47
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:204:13-62
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:205:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:203:13-56
+activity#com.SDT.servicedog.TaskDocumentList
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:206:9-209:47
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:208:13-70
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:209:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:207:13-63
+activity#com.SDT.servicedog.list_document_data
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:210:9-218:20
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:212:13-70
+	android:parentActivityName
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:213:13-77
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:214:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:211:13-65
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:215:13-217:71
+	android:value
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:217:17-68
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:216:17-63
+activity#com.SDT.servicedog.DocumentPlay
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:219:9-222:47
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:221:13-65
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:222:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:220:13-59
+activity#com.SDT.servicedog.TaskStoryLine
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:226:9-229:47
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:228:13-67
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:229:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:227:13-60
+activity#com.SDT.servicedog.TaskListDescriptionCompleted
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:230:9-233:47
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:232:13-83
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:233:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:231:13-75
+activity#com.SDT.servicedog.DonotDisturbActivity
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:234:9-76
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:234:19-73
+activity#com.SDT.servicedog.UserMenuActivity
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:235:9-238:47
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:237:13-61
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:238:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:236:13-63
+activity#com.SDT.servicedog.MenuSubActivity
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:239:9-242:47
+	android:label
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:241:13-60
+	android:theme
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:242:13-44
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:240:13-62
+activity#com.SDT.servicedog.StorylinePlay
+ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:243:9-247:20
+	android:screenOrientation
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:245:13-50
+	android:name
+		ADDED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml:244:13-60
+uses-sdk
+INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.2.0] C:\Users\dell\.android\build-cache\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] C:\Users\dell\.android\build-cache\2fb3d6d15e1dfd1a120e51bbe36b06af6600fcda\output\AndroidManifest.xml:20:5-43
+MERGED from [com.devbrackets.android:exomedia:3.0.3] C:\Users\dell\.android\build-cache\4daf1f1cb08badb52c576e233f16654d968d6dc7\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\dell\.android\build-cache\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\dell\.android\build-cache\912a34f8492bb7410a7c1dd7c07a76ebf70d2f52\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\dell\.android\build-cache\d566cf814c51c30774318e37034beb6542a8a71f\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\dell\.android\build-cache\4b203ce5d759aaf09d92067d31cef213f096dc97\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\dell\.android\build-cache\0bec3bd40c65ef222cb2e4303452f3a93f942d52\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\dell\.android\build-cache\57e3ee6fa1ecbbb0bc3a77d048a68c70a237903a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\dell\.android\build-cache\826c42d2b122b4cc1440ce4f59355350a01b44ac\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\dell\.android\build-cache\f00c8f9ec5fcf4dc743809b11125dd6dd0550c74\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\dell\.android\build-cache\f90dd234c7603bce311791126e5d82c2b861fd62\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] C:\Users\dell\.android\build-cache\25b512d495a4cf9ed8442bdb7e604de29491c5e4\output\AndroidManifest.xml:24:5-26:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\dell\.android\build-cache\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projcts\ServiceDog_SDT\app\src\main\AndroidManifest.xml

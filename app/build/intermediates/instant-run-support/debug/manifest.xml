@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.SDT.servicedog"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <action android:name="android.intent.action.PHONE_STATE" />
+    <!-- <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> -->
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- android:windowSoftInputMode="stateHidden|adjustResize"> -->
+        <activity
+            android:name="com.SDT.servicedog.Splash"
+            android:label="@string/app_name"
+            android:theme="@style/AppThemeLauncher" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.MainActivity"
+            android:label="@string/app_name"
+            android:permission="android.permission.INTERNET" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.Register"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.REGISTER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.ForgotPassword"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.FORGOTPASSWORD" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.TrainingProgrammes"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.TRAININGPROGRAMMES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.TaskList"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.TASKLIST" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.TaskReminders"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.TASKREMINDERS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.TaskHistory"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.TASKHISTORY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.Settings"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.SETTINGS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.TaskListDescription"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.TASKLISTDESCRIPTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.Feedback"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.FEEDBACK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.AboutUS"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.ABOUTUS" />
+
+                <data android:scheme="anton" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.Help"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.HELP" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.ChangePassword"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.CHANGEPASSWORD" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.FeedBackReport"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.FEEDBACKREPORT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.AboutUsVideoPlay"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:permission="android.permission.INTERNET" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.ABOUTUSVIDEOPLAY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.TaskVideoList"
+            android:label="@string/app_name"
+            android:permission="android.permission.INTERNET" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.TASKVIDEOLIST" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.TaskImageList"
+            android:label="@string/app_name"
+            android:permission="android.permission.INTERNET" >
+            <intent-filter>
+                <action android:name="com.laitkor.servicedog.TASKIMAGELIST" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.SDT.servicedog.TaskAudioList" />
+        <activity
+            android:name="com.SDT.servicedog.AudioPlay"
+            android:label="@string/title_activity_audio_play"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.SDT.servicedog.TaskDocumentList"
+            android:label="@string/title_activity_task_document_list"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.SDT.servicedog.list_document_data"
+            android:label="@string/title_activity_list_document_data"
+            android:parentActivityName="com.SDT.servicedog.TaskDocumentList"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.SDT.servicedog.TaskDocumentList" />
+        </activity>
+        <activity
+            android:name="com.SDT.servicedog.DocumentPlay"
+            android:label="@string/title_activity_document_play"
+            android:theme="@style/AppTheme" />
+        <!-- android:screenOrientation="landscape" -->
+        <!-- android:configChanges="orientation|keyboardHidden"/> -->
+
+        <activity
+            android:name="com.SDT.servicedog.TaskStoryLine"
+            android:label="@string/title_activity_task_story_line"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.SDT.servicedog.TaskListDescriptionCompleted"
+            android:label="@string/title_activity_task_list_description_completed"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.SDT.servicedog.DonotDisturbActivity" />
+        <activity
+            android:name="com.SDT.servicedog.UserMenuActivity"
+            android:label="@string/title_activity_user_menu"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.SDT.servicedog.MenuSubActivity"
+            android:label="@string/title_activity_menu_sub"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.SDT.servicedog.StorylinePlay"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.SDT.servicedog.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\anim\\slide_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

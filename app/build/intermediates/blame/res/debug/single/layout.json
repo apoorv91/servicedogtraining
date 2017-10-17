@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_sub.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_menu_sub.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_list_view.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\expandable_list_view.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_storyline_play.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_storyline_play.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_list_description_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\task_list_description_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_list_group.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\expandable_list_group.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_list_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\task_list_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_history_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\task_history_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exomedia_video_view_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\4daf1f1cb08badb52c576e233f16654d968d6dc7\\output\\res\\layout\\exomedia_video_view_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\taskreminders.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\taskreminders.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trainingprogrammes.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\trainingprogrammes.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_donot_disturb.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_donot_disturb.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_audio_play.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_audio_play.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_story_line.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_task_story_line.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_videos.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_videos.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exomedia_default_native_video_view.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\4daf1f1cb08badb52c576e233f16654d968d6dc7\\output\\res\\layout\\exomedia_default_native_video_view.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\taskhistory.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\taskhistory.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\taskcompletion.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\taskcompletion.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tasklist.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\tasklist.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us_video_play.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\about_us_video_play.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_list_description.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\task_list_description.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\settings_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customimagezoompopuplayout.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\customimagezoompopuplayout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\help_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_document_list.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_task_document_list.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_document_play.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_document_play.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_task_list_description_completed.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_task_list_description_completed.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_images_data.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_images_data.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgotpassword.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\forgotpassword.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_task_history.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_task_history.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_task_reminders.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_task_reminders.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_task_story_line.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_task_story_line.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_play.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_audio_play.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_list_images.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_list_images.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_back_report.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\feed_back_report.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_reminder_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\task_reminder_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_images.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_images.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ratingpopupscreen.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\ratingpopupscreen.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_user_menu.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_user_menu.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_donot_disturb.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_donot_disturb.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listdata.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\listdata.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\about_us_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exomedia_default_exo_video_view.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\4daf1f1cb08badb52c576e233f16654d968d6dc7\\output\\res\\layout\\exomedia_default_exo_video_view.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_audio_list.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_task_audio_list.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_task_data.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_task_data.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password_activity.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\change_password_activity.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_videos_data.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_videos_data.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_task_document_list.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_task_document_list.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_list_description_completed.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_task_list_description_completed.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_document_play.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_document_play.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exomedia_default_controls_mobile.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\4daf1f1cb08badb52c576e233f16654d968d6dc7\\output\\res\\layout\\exomedia_default_controls_mobile.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_menu.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_user_menu.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\activity_feedback_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_back_report_new.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\feed_back_report_new.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_content_main.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\feedback_content_main.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_audios_data.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\list_audios_data.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_menu_sub.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\content_menu_sub.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custompopuplayout.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\layout\\custompopuplayout.xml"
+    }
+]

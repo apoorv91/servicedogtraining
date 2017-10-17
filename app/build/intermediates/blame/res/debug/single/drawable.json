@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_player_logo.jpg",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\audio_player_logo.jpg"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_icons.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\dropdown_icons.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn1.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\login_btn1.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiskey_s_wish_logo.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\whiskey_s_wish_logo.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\down_arrow.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\calendar_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_subs.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\gray_subs.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_icon_2.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\edit_icon_2.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sky_subs.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\sky_subs.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\task_completion_attachment.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\task_completion_attachment.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_graybg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\feedback_graybg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expired_status_image.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\expired_status_image.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expired_status_image_old.jpg",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\expired_status_image_old.jpg"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_bg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\emoji_bg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdt_signup_screen_portrait.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\sdt_signup_screen_portrait.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expired_status_image1.jpg",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\expired_status_image1.jpg"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\login_btn.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_button.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\feedback_button.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\video_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sandclock_icon_new.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\sandclock_icon_new.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exomedia_default_controls_text_background.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\4daf1f1cb08badb52c576e233f16654d968d6dc7\\output\\res\\drawable\\exomedia_default_controls_text_background.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reminder_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\reminder_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uyuiy.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\uyuiy.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_selector.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\settings_selector.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow_1.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\down_arrow_1.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quiz_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\quiz_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\setting_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\image_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\menu_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ovalshape.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\ovalshape.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_popup.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\emoji_popup.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_icon_3.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\edit_icon_3.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_05.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\menu_05.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_02.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\menu_02.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\edit_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_image.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\splash_image.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow_2.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\up_arrow_2.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow_white.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\up_arrow_white.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_icon_drawer.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\menu_icon_drawer.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pdf_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\pdf_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\logout_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\task_feedback_button_bg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\task_feedback_button_bg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_01.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\emoji_01.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_icon_settings.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\edit_icon_settings.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_circle.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\gray_circle.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_icon_new.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\calendar_icon_new.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\client_family_issues.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\client_family_issues.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inactive_status_button.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\inactive_status_button.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_04.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\emoji_04.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\audio_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_05.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\emoji_05.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sliced_textfield.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\sliced_textfield.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\about_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_help.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\icon_help.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\img.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sky_circle.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\sky_circle.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_close_button.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\blue_close_button.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_04.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\menu_04.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow_new.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\up_arrow_new.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_icon_1.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\video_icon_1.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inactive_button.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\inactive_button.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\task_feedback_button_bg_grid.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\task_feedback_button_bg_grid.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow_1.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\up_arrow_1.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_logo.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\login_logo.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_03.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\emoji_03.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_bg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\header_bg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor.xml",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\color_cursor.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\up_arrow.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_03.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\menu_03.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\word_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\word_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.jpg",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\close_button.jpg"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_02.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\emoji_02.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sky_strip.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\sky_strip.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\play_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow_2.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\down_arrow_2.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_01.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\menu_01.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exomedia_default_controls_interactive_background.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\4daf1f1cb08badb52c576e233f16654d968d6dc7\\output\\res\\drawable\\exomedia_default_controls_interactive_background.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_bg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\banner_bg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\active_status_image.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\active_status_image.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\client_unwell.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\client_unwell.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow_new.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\down_arrow_new.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow_white.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\down_arrow_white.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trainingpro_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\trainingpro_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\completion.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\completion.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_skybg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\feedback_skybg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\client_not_good_space.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\client_not_good_space.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_bg.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\nav_bg.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_logo.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\audio_logo.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pro_pic.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\pro_pic.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\client_help.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\client_help.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_icon.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\history_icon.png"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\client_holiday.png",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\drawable\\client_holiday.png"
+    }
+]

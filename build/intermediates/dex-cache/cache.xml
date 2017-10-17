@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\4daf1f1cb08badb52c576e233f16654d968d6dc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffa0a6e35704dd24118bde91d13d3872bfd8fc90">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b9132f90cf0b5127f6ad032cd5f09cbe71b4192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\2fb3d6d15e1dfd1a120e51bbe36b06af6600fcda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_052511a0dc3a7c4e2deb8ead2aa18d3a3fcb8168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\49ea3024e1b2d02e3f329d1ec6dc945d4a27f589\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b31c26b9bedbb4b961e21d1766a81fd53878f92f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\a4a1e7f02f8346a1e264caedca7e75db3eee1a0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf6e14174840b7ba21f7b67f68b093a80bf6178f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f90dd234c7603bce311791126e5d82c2b861fd62\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dcea70a4933ba474317dda77a8a208d620e25487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\25b512d495a4cf9ed8442bdb7e604de29491c5e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c666f996a81675645e08ddfc890a2400f6c236e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\912a34f8492bb7410a7c1dd7c07a76ebf70d2f52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7312bf59e1c6c9a4d977a07b2c30685fdc293369\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f90dd234c7603bce311791126e5d82c2b861fd62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_965ad1da1a7d8b35987b7df2f0ca498c3f9b252d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projcts\ServiceDog_SDT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7938d7d53d837578f8f82d874bba6253c73e52fe">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c1342616cbbe93a1769711e2aef7740da05d6925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\57e3ee6fa1ecbbb0bc3a77d048a68c70a237903a\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_aaf6238a1b80aa098443153bfaa9c7588ac2f13e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\0bec3bd40c65ef222cb2e4303452f3a93f942d52\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4c3d61471bfbbd9ab7c7c36946008802902ce884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\d566cf814c51c30774318e37034beb6542a8a71f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b35769a3b974b5e47874596d728971d93ae153f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\57e3ee6fa1ecbbb0bc3a77d048a68c70a237903a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb27448f1ec4264b53d984d63b909fb8ba8233db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\4b203ce5d759aaf09d92067d31cef213f096dc97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a05cf064af58fb38da16d024ae2e077ce8729da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projcts\ServiceDog_SDT\app\src\main\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_53ef98e871b37b0515eab59599de0491f600a8b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\826c42d2b122b4cc1440ce4f59355350a01b44ac\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8026fcef1219e73ae03f1635912942f11b970e5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_381dcde965032ca42e507a6fb10233bce28005e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\826c42d2b122b4cc1440ce4f59355350a01b44ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cff7a587947969e7cbb930b7af447fde7972d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.2.3\118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1\httpmime-4.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpmime-4.2.3_5dc0903f72d4520a1f139c83a7cb812d65e73359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.3\e876a79d561e5c6207b78d347e198c8c4531a5e5\httpcore-4.4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.3_08ed57ccc135cde14fb775cda2e35a6c18d6b74b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projcts\ServiceDog_SDT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_38b26373b4e7311a7361119091ef8defde7813f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f00c8f9ec5fcf4dc743809b11125dd6dd0550c74\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6088d5b6b6c3c0fc1ba984ecc28c32010c02be85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f00c8f9ec5fcf4dc743809b11125dd6dd0550c74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01d70d075d034f3947541ecdf96f0727abd54092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\0bec3bd40c65ef222cb2e4303452f3a93f942d52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\projcts\ServiceDog_SDT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af43d8e4d00e87b69e653f56758e8beb5a958fb8\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ffmpeg",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\raw\\ffmpeg"
+    },
+    {
+        "merged": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sox",
+        "source": "E:\\projcts\\ServiceDog_SDT\\app\\src\\main\\res\\raw\\sox"
+    }
+]

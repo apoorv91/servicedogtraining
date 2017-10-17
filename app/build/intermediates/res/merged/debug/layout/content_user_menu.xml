@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_user_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.SDT.servicedog.UserMenuActivity">
+
+    <RelativeLayout
+        android:id="@+id/relLayoutHeader"
+        android:layout_width="match_parent"
+        android:layout_height="119dp"
+        android:layout_marginTop="10dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/banner_bg" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="@string/font_family_universal"
+            android:text="MENU"
+            android:textColor="@color/white"
+            android:textSize="25dp"
+            android:textStyle="normal" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relLayoutTabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/relLayoutHeader"
+        android:layout_marginTop="5dp">
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/wlcButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/menu_01"
+                    android:fontFamily="@string/font_family_universal"
+                    android:text="WELCOME"
+                    android:textColor="@color/white"
+                    android:textSize="22dp"
+                    android:textStyle="normal" />
+
+                <Button
+                    android:id="@+id/allAboutButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/wlcButton"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/menu_02"
+                    android:fontFamily="@string/font_family_universal"
+                    android:text="ALL ABOUT THE APP"
+                    android:textColor="@color/white"
+                    android:textSize="22dp"
+                    android:textStyle="normal" />
+
+                <Button
+                    android:id="@+id/useAppButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/allAboutButton"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/menu_03"
+                    android:fontFamily="@string/font_family_universal"
+                    android:text="HOW TO USE THIS APP"
+                    android:textColor="@color/white"
+                    android:textSize="22dp"
+                    android:textStyle="normal" />
+
+                <Button
+                    android:id="@+id/statusUpdtButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/useAppButton"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/menu_04"
+                    android:fontFamily="@string/font_family_universal"
+                    android:text="MY STATUS UPDATE"
+                    android:textColor="@color/white"
+                    android:textSize="22dp"
+                    android:textStyle="normal" />
+
+                <Button
+                    android:id="@+id/proceedTasksButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/statusUpdtButton"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/menu_04"
+                    android:fontFamily="@string/font_family_universal"
+                    android:text="PROCEED TO TASKS"
+                    android:textColor="@color/white"
+                    android:textSize="22dp"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

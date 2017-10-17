@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:theme="@style/NavigationTheme"
+    tools:openDrawer="start">
+
+    <android.support.design.widget.CoordinatorLayout
+
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        tools:context="com.SDT.servicedog.FeedBackReport">
+
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="50dp"
+            android:weightSum="1"
+            tools:context=".MainActivity">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="128dp"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:background="@drawable/banner_bg" />
+
+                <TextView
+                    android:id="@+id/task_cmpletion_msg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:fontFamily="@string/font_family_universal"
+                    android:padding="10dp"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textAllCaps="true"
+                    android:textColor="@color/white"
+                    android:textSize="25dp"
+                    android:textStyle="normal" />
+
+            </RelativeLayout>
+
+            <ScrollView
+                android:id="@+id/scrollviewFeedback"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fillViewport="true"
+                android:scrollbarThumbVertical="@null"
+                android:visibility="visible">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="8dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/heading_one"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:fontFamily="@string/font_family_universal"
+                        android:paddingBottom="5dp"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:text="Heading One"
+                        android:textColor="@color/colorSecondary"
+                        android:textSize="23dp"
+                        android:textStyle="normal"
+                        android:visibility="invisible" />
+
+                    <TextView
+                        android:id="@+id/heading_two"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_below="@+id/txt1"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginTop="5dp"
+                        android:fontFamily="@string/font_family_universal"
+                        android:paddingBottom="5dp"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp"
+                        android:text="Heading Two"
+                        android:textColor="@color/colorSecondary"
+                        android:textSize="23dp"
+                        android:textStyle="normal"
+                        android:visibility="invisible" />
+
+                    <DatePicker
+                        android:id="@+id/datePicker"
+                        android:layout_width="wrap_content"
+                        android:layout_height="140dp"
+                        android:layout_below="@+id/heading_two"
+                        android:layout_centerHorizontal="true"
+                        android:visibility="gone" />
+
+                    <EditText
+                        android:id="@+id/helpText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/txt2"
+                        android:layout_alignEnd="@+id/submitBtn"
+                        android:layout_alignStart="@+id/attachment_img"
+                        android:backgroundTint="@android:color/transparent"
+                        android:fontFamily="@string/font_family_universal"
+                        android:inputType="text"
+                        android:src="@drawable/feedback_graybg"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/fontSizeUniversal"
+                        android:textStyle="normal"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/txt1"
+                        android:layout_below="@+id/attachment_img"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginTop="12dp"
+                        android:fontFamily="@string/font_family_universal"
+                        android:text="max upload limit is 100 mb"
+                        android:textColor="@color/colorSecondary"
+                        android:textSize="@dimen/fontSizeUniversal"
+                        android:textStyle="normal"
+                        android:visibility="invisible" />
+
+                    <ImageView
+                        android:id="@+id/attachment_img"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_alignStart="@+id/txt2"
+                        android:layout_below="@+id/txt2"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/task_completion_attachment"
+                        android:visibility="invisible" />
+
+                    <EditText
+                        android:id="@+id/task2Text"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/heading_one"
+                        android:layout_toEndOf="@+id/datePicker"
+                        android:background="@drawable/feedback_graybg"
+                        android:fontFamily="@string/font_family_universal"
+                        android:hint=" click to select date"
+                        android:inputType="date"
+                        android:textColorHint="@color/black"
+                        android:textSize="@dimen/fontSizeUniversal"
+                        android:textStyle="normal"
+                        android:visibility="invisible" />
+
+                    <Button
+                        android:id="@+id/submitBtn"
+                        android:layout_width="120dp"
+                        android:layout_height="50dp"
+                        android:layout_alignEnd="@+id/txt2"
+                        android:layout_alignTop="@+id/cancelBtn"
+                        android:layout_marginEnd="0dp"
+                        android:background="@drawable/inactive_button"
+                        android:fontFamily="@string/font_family_universal"
+                        android:text="Submit"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/fontSizeUniversal"
+                        android:textStyle="normal" />
+
+                    <Button
+                        android:id="@+id/cancelBtn"
+                        android:layout_width="120dp"
+                        android:layout_height="50dp"
+                        android:layout_alignTop="@+id/attachment_img"
+                        android:layout_toStartOf="@+id/submitBtn"
+                        android:background="@drawable/inactive_button"
+                        android:fontFamily="@string/font_family_universal"
+                        android:text="Cancel"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/fontSizeUniversal"
+                        android:textStyle="normal" />
+
+                    <EditText
+                        android:id="@+id/txt2"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_below="@+id/heading_two"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/feedback_graybg"
+                        android:cursorVisible="true"
+                        android:fontFamily="@string/font_family_universal"
+                        android:gravity="top|left"
+                        android:imeOptions="actionDone"
+                        android:inputType="text|textNoSuggestions"
+                        android:paddingBottom="5dp"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="5dp"
+                        android:scrollHorizontally="false"
+                        android:text=""
+                        android:textCursorDrawable="@drawable/color_cursor"
+                        android:textSize="@dimen/fontSizeUniversal"
+                        android:textStyle="normal"
+                        android:visibility="visible" />
+
+                    <EditText
+                        android:id="@+id/txt1"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_alignStart="@+id/heading_one"
+                        android:layout_below="@+id/heading_one"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/feedback_graybg"
+                        android:cursorVisible="true"
+                        android:fontFamily="@string/font_family_universal"
+                        android:gravity="top|left"
+                        android:imeOptions="actionNext"
+                        android:inputType="text|textNoSuggestions"
+                        android:paddingBottom="5dp"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="5dp"
+                        android:scrollHorizontally="false"
+                        android:text=""
+                        android:textCursorDrawable="@drawable/color_cursor"
+                        android:textSize="@dimen/fontSizeUniversal"
+                        android:textStyle="normal"
+                        android:visibility="visible" />
+
+                    <ImageButton
+                        android:id="@+id/imageButton"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignBottom="@+id/task2Text"
+                        android:layout_alignParentRight="true"
+                        android:layout_margin="5dp"
+                        android:layout_marginEnd="13dp"
+                        android:background="@drawable/calendar_icon"
+                        android:visibility="invisible" />
+
+                </RelativeLayout>
+            </ScrollView>
+        </LinearLayout>
+
+    </android.support.design.widget.CoordinatorLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigation_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@drawable/nav_bg"
+        android:theme="@style/NavigationViewStyle"
+        app:headerLayout="@layout/nav_header"
+        app:itemIconTint="@color/White"
+        app:itemTextColor="@color/White"
+        app:menu="@menu/menu_navigation" />
+
+</android.support.v4.widget.DrawerLayout>

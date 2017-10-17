@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw300dp-v13\\values-sw300dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "C:\\Users\\dell\\.android\\build-cache\\4daf1f1cb08badb52c576e233f16654d968d6dc7\\output\\res\\values-sw300dp-v13\\values-sw300dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 71,
+                        "endOffset": 122
+                    }
+                }
+            }
+        ]
+    }
+]

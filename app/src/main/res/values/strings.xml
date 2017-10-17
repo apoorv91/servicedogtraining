@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Service Dog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_list_audios">List_audios</string>
+    <string name="title_activity_list__audios">List_Audios</string>
+    <string name="title_activity_audio_play">AudioPlay</string>
+    <string name="title_activity_task_document_list">TaskDocumentList</string>
+    <string name="title_activity_list_document_data">list_document_data</string>
+    <string name="title_activity_document_play">DocumentPlay</string>
+    <string name="title_activity_task_story_line">TaskStoryLine</string>
+    <string name="title_activity_task_list_completed">TaskListCompleted</string>
+    <string name="title_activity_task_list_description_completed">TaskListDescriptionCompleted
+    </string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_user_menu">UserMenuActivity</string>
+    <string name="title_activity_menu_sub">MenuSubActivity</string>
+
+</resources>

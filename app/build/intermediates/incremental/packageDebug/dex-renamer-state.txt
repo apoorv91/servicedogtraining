@@ -1,0 +1,7 @@
+#Sun Sep 17 23:37:37 IST 2017
+base.0=E\:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c1342616cbbe93a1769711e2aef7740da05d6925
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38b26373b4e7311a7361119091ef8defde7813f8\\classes.dex
+base.1=E\:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38b26373b4e7311a7361119091ef8defde7813f8
+file.0=E\:\\projcts\\ServiceDog_SDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c1342616cbbe93a1769711e2aef7740da05d6925\\classes.dex

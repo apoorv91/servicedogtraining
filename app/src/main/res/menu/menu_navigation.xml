@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/about_us"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/_aboutus"
+            android:icon="@drawable/about_icon"
+            android:title="About Us" />
+
+    </group>
+
+    <group
+        android:id="@+id/training_programmes"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/_trainingprog"
+            android:icon="@drawable/trainingpro_icon"
+            android:title="Training Programmes"
+            />
+    </group>
+
+    <group
+        android:id="@+id/task_history"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/_taskhis"
+            android:icon="@drawable/history_icon"
+            android:title="Task History" />
+    </group>
+
+    <group
+        android:id="@+id/task_reminder"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/taskrem"
+            android:icon="@drawable/reminder_icon"
+            android:title="Task Reminders" />
+    </group>
+
+    <group
+        android:id="@+id/group_settings"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/settingschange"
+            android:background="@color/white"
+            android:icon="@drawable/setting_icon"
+            android:title="Settings" />
+    </group>
+
+    <group
+        android:id="@+id/help_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/help_btn"
+            android:background="@color/white"
+            android:icon="@drawable/icon_help"
+            android:title="Help" />
+    </group>
+
+    <group
+        android:id="@+id/menu_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_btn"
+            android:background="@color/white"
+            android:icon="@drawable/menu_icon_drawer"
+            android:title="Menu" />
+    </group>
+
+    <group
+        android:id="@+id/user_logout"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/logout"
+            android:background="@color/white"
+            android:icon="@drawable/logout_icon"
+            android:title="Logout" />
+    </group>
+</menu>
